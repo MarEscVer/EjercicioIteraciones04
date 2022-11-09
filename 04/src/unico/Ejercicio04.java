@@ -7,6 +7,8 @@ public class Ejercicio04 {
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);
 
+// Escribir una aplicación que pida un número n, y escriba los números desde 1 hasta n.
+		
 		int num;
 		int i = 1;
 
